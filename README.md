@@ -51,4 +51,6 @@ Project **eval-java-jax-ws** is an evaluation of Java JAX WS.
 
 ## I - References
 
+* https://www.mojohaus.org/jaxws-maven-plugin/wsimport-mojo.html
+* http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
 * https://examples.javacodegeeks.com/enterprise-java/jws/jax-ws-tutorial-beginners/
