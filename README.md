@@ -6,7 +6,7 @@ Evaluation Java JAX WS SOAP Client
 
 Project **eval-java-jax-ws** is an evaluation of Java JAX WS.
 
-## 2. Documentation
+## 2. Diagrams
 
 ### 2.1. Use Case Diagram
 
@@ -18,34 +18,31 @@ Project **eval-java-jax-ws** is an evaluation of Java JAX WS.
 ![DeployDiagram-Context.png](./doc/DeployDiagram-Context.png) 
 
 
-## 3. Project
-
-### 3.1. Preconditions
-
+## 3. Technologies Used
 * Java JDK 1.8 (jar file includes runnable)
 * Eclipse (JEEE 2019 versionrecommended)
 
-### 3.2. Guide for Developers
+## 4. Project
+
+### 4.1. Guide for Users
 
 * n/a
 
-### 3.3. Guide for Configuration
+### 4.2. Guide for Developers
 
 * n/a
 
+### 4.3. Guide for Configuration
+
+* n/a
 
 ### 3.4. Guide for Test
 
 * n/a
 
-### 3.5. Guide for Deploy
+### 3.5. Guide for Demonstration
 
 * n/a
-
-### 3.6. Guide for Demonstration
-
-* n/a
-
 
 ### 3.7. Patterns, Standard, Conventions and Best Practices
 
