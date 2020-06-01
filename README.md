@@ -31,7 +31,7 @@ Project **eval-java-jax-ws** is an evaluation of Java JAX WS.
 
 ### 4.2. Guide for Developers
 
-### 4.2.1. Generate SOAP classes
+#### 4.2.1. Generate SOAP classes
 
 * Maven Clean
 
@@ -69,7 +69,7 @@ Gerando o código...
 [INFO] ------------------------------------------------------------------------
 ```
 
-### 4.2.2. Customize your classes
+#### 4.2.2. Customize your classes
 
 ```java-jax-ws
 	:
