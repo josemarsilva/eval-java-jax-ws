@@ -105,6 +105,8 @@ Gerando o código...
   * https://www.youtube.com/watch?v=2ToEge_xybI&feature=youtu.be
   * https://examples.javacodegeeks.com/enterprise-java/jws/jax-ws-tutorial-beginners/
   * https://www.youtube.com/watch?v=FqDenKN5y1s
+  * https://www.eclipse.org/webtools/community/education/web/t320/Generating_a_client_from_WSDL.pdf
+  * https://www.youtube.com/watch?v=11iGyrvBhzc
 
 * Plugin Guide
   * https://www.mojohaus.org/jaxws-maven-plugin/wsimport-mojo.html
